@@ -1,0 +1,10 @@
+body{
+   background-color: tan;
+}
+
+div {
+    margin: auto;
+    border-style:solid;
+    border-color: red;
+    align-content:center;
+}
